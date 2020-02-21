@@ -1,3 +1,6 @@
+####################################
+##coder :Vijay kumar kanchukommala
+####################################
 #! /usr/bin/tclsh 
 
 set inputs [list c d a b ]

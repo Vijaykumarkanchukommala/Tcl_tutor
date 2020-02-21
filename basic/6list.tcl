@@ -1,3 +1,6 @@
+####################################
+##coder :Vijay kumar kanchukommala
+####################################
 #!/usr/bin/tclsh
 set color {red blue orage}
 puts [lindex $color 0]

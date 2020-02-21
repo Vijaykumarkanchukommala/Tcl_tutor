@@ -1,3 +1,6 @@
+####################################
+##coder :Vijay kumar kanchukommala
+####################################
 #!/usr/bin/tclsh 
 
 for {set a 0} {$a < 10} {set a [expr $a + 1]} {

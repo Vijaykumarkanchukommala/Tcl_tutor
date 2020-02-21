@@ -1,3 +1,6 @@
+####################################
+##coder :Vijay kumar kanchukommala
+####################################
 #!/usr/vin/tclsh
 
 set myfile [ open "1hello_tcl.tcl" r]
